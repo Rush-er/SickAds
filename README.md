@@ -1,6 +1,6 @@
 Simple host list
 
-Use this link for AdAway: https://kutt.it/SickAds
+Use this link for AdAway: https://raw.githubusercontent.com/Rush-er/SickAds/master/host.txt
 
 
 <details> 
