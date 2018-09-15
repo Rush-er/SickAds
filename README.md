@@ -3,7 +3,8 @@ Simple host list
 Use this link for AdAway: https://kutt.it/SickAds
 
 
->! Hosts used:
+<details> 
+  <summary>INTERACTIVE GOVERNOR</summary>
 1. https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 2. https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 3. https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
