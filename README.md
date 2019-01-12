@@ -1,7 +1,7 @@
 Simple host list
 130000+ domains
 
-Use this link for AdAway: https://raw.githubusercontent.com/Rush-er/SickAds/master/hostAdBlock.txt
+Use this link for [AdAway](https://github.com/AdAway/AdAway): https://raw.githubusercontent.com/Rush-er/SickAds/master/hostAdBlock.txt
 
 
 Name | Link
