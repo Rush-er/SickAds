@@ -1,5 +1,5 @@
 Simple host list
-130000+ domains
+367000+ domains
 
 Use this link with [AdAway](https://github.com/AdAway/AdAway): https://raw.githubusercontent.com/Rush-er/SickAds/master/hostAdBlock.txt
 
@@ -22,4 +22,4 @@ Suspiciousdomains|https://isc.sans.edu/feeds/suspiciousdomains_High.txt
 Malwaredomains|https://mirror.cedia.org.ec/malwaredomains/justdomains
 Pgl yoyo|https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 Ransomwaretracker|https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
-Energized | https://github.com/AdroitAdorKhan/Energized/blob/master/core/hostshttps://github.com/AdroitAdorKhan/Energized/blob/master/core/hosts
+Energized | https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu-domains.txt
