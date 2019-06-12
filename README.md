@@ -1,5 +1,5 @@
 Simple host list
-367000+ domains
+290000+ domains
 
 Use this link with [AdAway](https://github.com/AdAway/AdAway): https://raw.githubusercontent.com/Rush-er/SickAds/master/hostAdBlock.txt
 
